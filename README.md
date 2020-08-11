@@ -1,6 +1,6 @@
 # Facial-parts-detection
 
-# Facial-parts-detection
+
 
 ## Computer Vision: Try Lipstick shades
 
